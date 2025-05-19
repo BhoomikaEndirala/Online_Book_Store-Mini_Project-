@@ -3,8 +3,8 @@ functionality for two types of users. (Admin and User). Admin can add new books 
 the current list of available books in the store, while users can browse the available books, 
 purchase books, and return them. 
 
-#DETAILED EXPLANATION OF THE CODE: <br>
-##BOOK CLASS <br>
+# DETAILED EXPLANATION OF THE CODE: <br>
+## BOOK CLASS <br>
 The Book class is used to represent a book object. Each book has the following attributes: <br>
  name: The title of the book <br>
  author: The author of the book <br>
