@@ -1,4 +1,3 @@
-INTRODUCTION 
 This is a basic Java mini project that works as a book store management. The system provides 
 functionality for two types of users. (Admin and User). Admin can add new books and view 
 the current list of available books in the store, while users can browse the available books, 
